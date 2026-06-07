@@ -51,14 +51,6 @@
 点击链接加入QQ频道【纯纯看番】：[https://pd.qq.com/s/4q8rd0285](https://pd.qq.com/s/4q8rd0285)  
 点击链接加入 Telegram 群组【纯纯看番】：[https://t.me/easy_bangumi](https://t.me/easy_bangumi)
 
-# 截图
-
-| <img src="./screenshots/1.jpg" /> | <img src="./screenshots/2.jpg" />  | <img src="./screenshots/3.jpg"  /> |
-|:---------------------------------:|:----------------------------------:|:----------------------------------:|
-| <img src="./screenshots/4.jpg" /> | <img src="./screenshots/5.jpg"  /> | <img src="./screenshots/6.jpg"  /> |
-
-<img src="./screenshots/7.jpg"/>
-
 # [更新列表](https://github.com/easybangumiorg/EasyBangumi/blob/main/app/src/main/assets/update_log.txt)  
 
 
